@@ -197,3 +197,23 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 ![image](https://github.com/user-attachments/assets/4aacfe06-4f5e-489d-b7ef-a2fd57a67a3f)
 
 <br>
+
+![image](https://github.com/user-attachments/assets/8210f6a6-9815-4315-85be-a65e6ff69a6f)
+
+<br><br>
+
+## Pull Request Template
+
+<br>
+
+### Pull request template은 왜 필요할까?
+
+<br>
+
+1. PR의 내용이 중요한 이유는 Pull Request를 통해 코드 리뷰를 받기 때문입니다.
+2. 코드 리뷰를 통해 팀원 간의 코드 스타일을 맞출 수 있고, 혼자서는 발견하기 어려운 위험 요소도 발견할 수 있습니다.
+3. PR 내용만으로도 변경 사항과 이유를 충분히 이해할 수 있어야 합니다.
+4. PR Template을 만들어 Repository에 추가하면 PR을 할 때 PR body에 template의 내용을 자동으로 볼 수 있습니다.
+5. PR의 내용을 표준화해서 일관성 있는 좋은 품질의 Pull Request를 유지할 수 있습니다.
+
+<br>
