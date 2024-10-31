@@ -4,7 +4,7 @@
 
 ## 목차
 
-1. [소개](#소개)
+1. [Git Branch 전략](#'Git Branch 전략')
 2. [변수](#변수)
 3. [함수](#함수)
 
@@ -215,5 +215,57 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 3. PR 내용만으로도 변경 사항과 이유를 충분히 이해할 수 있어야 합니다.
 4. PR Template을 만들어 Repository에 추가하면 PR을 할 때 PR body에 template의 내용을 자동으로 볼 수 있습니다.
 5. PR의 내용을 표준화해서 일관성 있는 좋은 품질의 Pull Request를 유지할 수 있습니다.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8303f421-ff4b-426d-9a83-079b7ae5a3b3)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d927e3b6-a849-4bf8-bc7a-27cd62506f6e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cb90ac9a-3a61-4203-afb6-96352f25aaad)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0065d12a-8e9a-4133-b132-0b2d7c84c8ca)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/31be24e1-4a12-4efe-ac60-6fb2658d9c65)
+
+<br>
+
+## Issue Template
+
+<br>
+
+![image](https://github.com/user-attachments/assets/280af18c-ea0d-41a0-9b06-1831e4709d39)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c91f13c0-22c2-476b-b092-6aba9a9fbbda)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0f44e30c-7128-4070-8f18-de39d0fd1692)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d28203d1-0055-4770-848c-dc69af62686a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c86c7a25-d2cc-464b-a649-45e537f9f911)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16bca4bb-b405-4971-87e5-46efbc49e0b7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/07880a14-91c2-4bb7-8c03-ddced06048c8)
 
 <br>
