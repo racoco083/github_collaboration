@@ -56,8 +56,8 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 <br>
 
+new project 클릭
 ![image](https://github.com/user-attachments/assets/07dc4f97-5b17-4e08-96ce-72e505809ecd)
-: new project 클릭
 
 <br>
 
