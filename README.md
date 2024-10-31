@@ -233,10 +233,6 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 <br>
 
-![image](https://github.com/user-attachments/assets/d927e3b6-a849-4bf8-bc7a-27cd62506f6e)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/cb90ac9a-3a61-4203-afb6-96352f25aaad)
 
 <br>
