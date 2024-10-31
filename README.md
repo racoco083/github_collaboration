@@ -57,22 +57,27 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 <br>
 
 ![image](https://github.com/user-attachments/assets/07dc4f97-5b17-4e08-96ce-72e505809ecd)
-<p style="text-align: center;">new project 클릭</p>
+: new project 클릭
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/a084a1c8-0af3-4552-a2a4-58e37d251cfd)
+: project style 선택
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/b4124fc5-5eca-446f-a9b9-d5fe0f983ffd)
+: team planning stype
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/16169685-3f7f-401f-bf4f-ee1b4abdc0d6)
+: priority, assignee 설정
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/66199853-410d-4cca-b311-dcc2c3055f12)
+: convert to issue 선택
 
 <br>
 
@@ -104,10 +109,12 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 <br>
 
 ![image](https://github.com/user-attachments/assets/72c4b6e4-51c6-4e94-bc52-3da476d3cca9)
+: issue repo 선택
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/c5549905-a04c-4795-960a-2ccebfbf0726)
+선택한 repo, item에 명시되었는지 확인
 
 <br>
 
