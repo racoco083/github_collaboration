@@ -115,4 +115,55 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 ![image](https://github.com/user-attachments/assets/21152d87-6ce9-495d-8789-39a458309fa1)
 
+<br><br>
+
+## Gtihub Issue
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c669826c-c43b-452a-bdb6-6f2dbb544e68)
+
+<br>
+
+### Labels (레이블)
+정의: 이슈나 풀 리퀘스트에 태그를 추가하여 분류 및 필터링할 수 있는 기능입니다.
+목적: 레이블을 사용하면 이슈의 성격, 상태, 우선순위 등을 쉽게 구분할 수 있습니다.
+사용 예시:
+버그(Bug): 버그 관련 이슈를 식별합니다.
+기능 요청(Feature): 새로운 기능이나 개선 요청을 나타냅니다.
+우선순위(P0, P1, P2): 이슈의 긴급성과 중요도를 나타냅니다.
+진행 중(In Progress): 작업이 현재 진행 중임을 표시합니다.
+검토 필요(Needs Review): 코드 리뷰가 필요한 이슈를 나타냅니다.
+기능:
+필터링: 레이블을 사용하여 특정 유형의 이슈를 쉽게 검색하고 필터링할 수 있습니다.
+시각적 분류: 색상을 사용하여 레이블을 시각적으로 구분함으로써 이슈를 빠르게 인식할 수 있게 합니다.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f50539ca-a180-4ef0-80f1-300e45f7305e)
+
+<br>
+
+### Milestones (마일스톤)
+정의: 프로젝트의 특정 목표나 기한을 나타내는 기능으로, 여러 이슈와 풀 리퀘스트를 그룹화합니다.
+목적: 마일스톤을 사용하여 프로젝트의 주요 목표를 설정하고, 해당 목표에 도달하기 위한 작업을 추적할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/de9247c8-4510-440d-96f8-4c4a584e9a11)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/70bb1450-5dac-4ea5-87c8-10d119985d05)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/829ed905-96fb-455b-96a8-ce0e996dba9e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c3da6b49-2a4f-41a1-b389-5ba091567b9b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c1e62daf-23b4-49da-8b07-fd90eb261e5d)
+
 <br>
