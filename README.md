@@ -72,12 +72,12 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 <br>
 
 ![image](https://github.com/user-attachments/assets/16169685-3f7f-401f-bf4f-ee1b4abdc0d6)
-: priority, assignee 설정
+: item들 등록
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/66199853-410d-4cca-b311-dcc2c3055f12)
-: convert to issue 선택
+: feature_1 클릭
 
 <br>
 
@@ -109,20 +109,22 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 <br>
 
 ![image](https://github.com/user-attachments/assets/72c4b6e4-51c6-4e94-bc52-3da476d3cca9)
-: issue repo 선택
+: priority, assignee 설정
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/c5549905-a04c-4795-960a-2ccebfbf0726)
-선택한 repo, item에 명시되었는지 확인
+: convert to issue 선택
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/9a26b7a1-5272-4859-a3e9-0fc4d59dd3d9)
+: issue repo 선택
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/21152d87-6ce9-495d-8789-39a458309fa1)
+선택한 repo, item에 명시되었는지 확인
 
 <br><br>
 
