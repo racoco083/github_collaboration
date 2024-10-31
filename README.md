@@ -185,10 +185,6 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 <br>
 
-![image](https://github.com/user-attachments/assets/c7d5d3a0-f7ff-4a08-83e1-e092137947ff)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/28fe61fb-ab04-4be1-a9e6-0b25a3cbbb53)
 
 <br>
