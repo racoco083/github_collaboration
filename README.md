@@ -5,8 +5,10 @@
 ## 목차
 
 1. [Git Branch 전략](#Git-Branch-전략)
-2. [변수](#변수)
-3. [함수](#함수)
+2. [Github Project](#Github-Project)
+3. [Github Issue](#Github-Issue)
+4. [Pull Request Template](#Pull-Request-Template)
+5. [Issue Template](#Issue-Template)
 
 <br><br>
 
