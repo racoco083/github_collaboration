@@ -50,6 +50,69 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 
 <br><br>
 
-## **기초 개념**
+## Github Project
 
-상속, 인터페이스, 오버라이딩
+<br>
+
+![image](https://github.com/user-attachments/assets/07dc4f97-5b17-4e08-96ce-72e505809ecd)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a084a1c8-0af3-4552-a2a4-58e37d251cfd)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b4124fc5-5eca-446f-a9b9-d5fe0f983ffd)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16169685-3f7f-401f-bf4f-ee1b4abdc0d6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/66199853-410d-4cca-b311-dcc2c3055f12)
+
+<br>
+
+1. Assignees (담당자)
+설명: 특정 작업이나 이슈를 담당할 팀원 또는 사용자를 지정합니다.
+기능: 작업의 책임을 분명히 하여, 누가 해당 작업을 수행해야 하는지를 명확하게 합니다.
+2. Status (상태)
+설명: 작업이나 이슈의 현재 진행 상태를 나타냅니다.
+기능: 일반적으로 "To Do", "In Progress", "Done" 등의 상태로 표시되며, 작업의 진행 상황을 추적하는 데 도움이 됩니다.
+3. Priority (우선순위)
+설명: 작업이나 이슈의 긴급성과 중요도를 나타냅니다.
+기능: P0, P1, P2 등의 등급으로 구분되어, 팀이 어떤 작업을 먼저 처리해야 할지 결정하는 데 도움을 줍니다.
+4. Size (크기)
+설명: 작업의 크기나 복잡성을 나타내는 메트릭입니다.
+기능: 팀이 작업의 양을 가늠하고, 전체 작업 부하를 관리하는 데 사용됩니다. 예를 들어, "Small", "Medium", "Large"와 같은 구분이 있을 수 있습니다.
+5. Estimate (추정 시간)
+설명: 작업을 완료하는 데 필요한 시간의 추정값입니다.
+기능: 작업에 소요될 시간을 예측하고, 프로젝트의 전체 일정을 계획하는 데 유용합니다.
+6. Iteration (반복)
+설명: 프로젝트의 특정 반복 주기나 스프린트를 나타냅니다.
+기능: 애자일 개발 방식에서 스프린트 또는 반복 주기를 정의하여 팀이 특정 기간 동안 어떤 작업을 수행할 것인지 계획하는 데 도움을 줍니다.
+7. Start Date (시작일)
+설명: 작업이 시작되는 날짜를 나타냅니다.
+기능: 작업 일정 관리를 위해 필요한 정보를 제공합니다.
+8. End Date (종료일)
+설명: 작업이 완료되는 날짜를 나타냅니다.
+기능: 프로젝트의 전체 일정과 각 작업의 마감일을 관리하는 데 사용됩니다.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/72c4b6e4-51c6-4e94-bc52-3da476d3cca9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c5549905-a04c-4795-960a-2ccebfbf0726)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9a26b7a1-5272-4859-a3e9-0fc4d59dd3d9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/21152d87-6ce9-495d-8789-39a458309fa1)
+
+<br>
