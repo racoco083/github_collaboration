@@ -167,3 +167,33 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 ![image](https://github.com/user-attachments/assets/c1e62daf-23b4-49da-8b07-fd90eb261e5d)
 
 <br>
+
+### Pull Request Merge 시 Issue 자동 처리
+
+![image](https://github.com/user-attachments/assets/10975d63-c258-4228-8d4f-e48a581437b1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c7d5d3a0-f7ff-4a08-83e1-e092137947ff)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/28fe61fb-ab04-4be1-a9e6-0b25a3cbbb53)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f582546f-2960-4a40-883e-bf5fd25a6823)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8da00616-bd42-4897-a987-fac2b1039b38)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1099cce3-bcbb-49a0-b5b3-1f81d1c6ab63)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4aacfe06-4f5e-489d-b7ef-a2fd57a67a3f)
+
+<br>
